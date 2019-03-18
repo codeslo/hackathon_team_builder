@@ -1,0 +1,11 @@
+/home/matt/Documents/Code/HackathonTeams/bin/Debug/netcoreapp2.2/HackathonTeams.deps.json
+/home/matt/Documents/Code/HackathonTeams/bin/Debug/netcoreapp2.2/HackathonTeams.runtimeconfig.json
+/home/matt/Documents/Code/HackathonTeams/bin/Debug/netcoreapp2.2/HackathonTeams.runtimeconfig.dev.json
+/home/matt/Documents/Code/HackathonTeams/bin/Debug/netcoreapp2.2/HackathonTeams.dll
+/home/matt/Documents/Code/HackathonTeams/bin/Debug/netcoreapp2.2/HackathonTeams.pdb
+/home/matt/Documents/Code/HackathonTeams/obj/Debug/netcoreapp2.2/HackathonTeams.csprojAssemblyReference.cache
+/home/matt/Documents/Code/HackathonTeams/obj/Debug/netcoreapp2.2/HackathonTeams.csproj.CoreCompileInputs.cache
+/home/matt/Documents/Code/HackathonTeams/obj/Debug/netcoreapp2.2/HackathonTeams.AssemblyInfoInputs.cache
+/home/matt/Documents/Code/HackathonTeams/obj/Debug/netcoreapp2.2/HackathonTeams.AssemblyInfo.cs
+/home/matt/Documents/Code/HackathonTeams/obj/Debug/netcoreapp2.2/HackathonTeams.dll
+/home/matt/Documents/Code/HackathonTeams/obj/Debug/netcoreapp2.2/HackathonTeams.pdb
